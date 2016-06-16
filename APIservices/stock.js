@@ -10,5 +10,4 @@ let Stock = {
     });
   }
 }
-
 module.exports = Stock;
