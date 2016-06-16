@@ -1,0 +1,20 @@
+CUSTOM API
+
+******************************
+Available Requests
+____________________
+
+Date API :
+  Current Time = '/now'
+  Current Date = '/today'
+
+Stock API :
+  Stock = '/quote/APPL'
+
+Math API  :
+  Sum         = '/sum/123'
+  Square      = '/square/2'
+  Cube        = '/cube/2'
+  Square Root ='/root/49'
+
+******************************
