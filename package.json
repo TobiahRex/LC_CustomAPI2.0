@@ -1,0 +1,12 @@
+{
+  "name": "APIservices",
+  "version": "1.0.0",
+  "description": "* Demonstration of how to build your own API using Node HTTP services.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
