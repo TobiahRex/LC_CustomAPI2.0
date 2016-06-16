@@ -5,16 +5,21 @@ Available Requests
 ____________________
 
 Date API :
-  Current Time = '/now'
-  Current Date = '/today'
+  Current Time = '/now'        -> 5:48:37 PM
+  Current Date = '/today'      -> June 15, 2016
 
 Stock API :
   Stock = '/quote/APPL'
 
 Math API  :
-  Sum         = '/sum/123'
-  Square      = '/square/2'
-  Cube        = '/cube/2'
-  Square Root ='/root/49'
+  Sum         = '/sum/123'     -> 6
+  Subtraction = '/minus/2/4'   -> -2
+  Multiply    = '/multiply/2/5'-> 10
+  Division    = '/divide/6/2'  -> 3
+  Square      = '/square/2'    -> 4
+  Cube        = '/cube/2'      -> 8
+  Square Root = '/root/49'     -> 7
+  Nth Power   = '/power/2/4'   -> 16
+
 
 ******************************
